@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": "sheks8ptm",
+      "name": "Giày vans white",
+      "cate_id": "nzjighlxx",
+      "image": "https://firebasestorage.googleapis.com/v0/b/duan1-36be2.appspot.com/o/images%2Fpro_basas_A61069_1.jpg?alt=media&token=7dd47dec-1f24-4a2f-a12c-1f7c9ea43f5b",
+      "price": "100000",
+      "desc": "Giày đẹp - giá rẻ"
+    },
+    {
+      "id": "6dtjacbg7",
+      "name": "Giày adidas black",
+      "cate_id": "bels009a6",
+      "image": "https://firebasestorage.googleapis.com/v0/b/duan1-36be2.appspot.com/o/images%2F5cb6a70f43987-adidas-run-falcon-sneaker-house-F36199-1.jpg?alt=media&token=135004e5-f0bb-4253-84d9-f4193cd47a32",
+      "price": "100000",
+      "desc": "Giày đẹp - giá rẻ"
+    },
+    {
+      "id": "ijmy7b0mp",
+      "name": "Giày vans yellow",
+      "cate_id": "nzjighlxx",
+      "image": "https://firebasestorage.googleapis.com/v0/b/duan1-36be2.appspot.com/o/images%2F5cb6a70f43987-adidas-run-falcon-sneaker-house-F36199-1.jpg?alt=media&token=3682472c-fef0-4b19-ba41-a3ff1341ef3e",
+      "price": "100000",
+      "desc": "Giày đẹp - giá rẻ"
+    }
+  ],
+  "categories": [
+    {
+      "id": "nzjighlxx",
+      "name": "Top",
+      "desc": "Áo"
+    },
+    {
+      "id": "bels009a6",
+      "name": "Bot",
+      "desc": "Quần"
+    },
+    {
+      "id": "a0jdpvh3i",
+      "name": "Hat",
+      "desc": "Mũ"
+    }
+  ]
+}
